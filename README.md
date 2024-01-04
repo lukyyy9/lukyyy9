@@ -21,4 +21,6 @@
     <li>LinkedIn : https://www.linkedin.com/in/lucas-buonocore-421580214/</li>
   </ul>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukyyy9&show_icons=true)
+  <h2>📈 My Stats</h2>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukyyy9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukyyy9)](https://github.com/anuraghazra/github-readme-stats)
