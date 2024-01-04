@@ -2,7 +2,7 @@
   <h1>Welcome to lukyyy9's GitHub Profile 👋</h1>
 </div>
 
-<img src="https://otakugame.fr/wp-content/uploads/2016/12/nier-box_art.jpg"/>
+<img align="center" src="https://otakugame.fr/wp-content/uploads/2016/12/nier-box_art.jpg"/>
 
 <div style="position: absolute;">
   <h2>🚀 About Me</h2>
@@ -25,6 +25,5 @@
 </div>
 
 <div align="center">
-  <!-- Insert GitHub stats widget if desired -->
-  <!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukyyy9&show_icons=true) -->
+  [Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukyyy9&show_icons=true)
 </div>
