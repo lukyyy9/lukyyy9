@@ -2,7 +2,7 @@
   <h1>Welcome to lukyyy9's GitHub Profile 👋</h1>
 </div>
 
-<img style="width: 100%; height: 100%; opacity: 0.33;" src="https://otakugame.fr/wp-content/uploads/2016/12/nier-box_art.jpg"/>
+<img src="https://otakugame.fr/wp-content/uploads/2016/12/nier-box_art.jpg"/>
 
 <div style="position: absolute;">
   <h2>🚀 About Me</h2>
@@ -11,12 +11,12 @@
   <h2>🎯 My Work</h2>
   <p>Here you'll find a range of projects showcasing my journey in web development. Feel free to explore!</p>
   <ul>
-    <li><a src="https://medtrackr.quoicoucorp.fr">MedTrackr</a>, an e-health progressive web app</li>
+    <li>MedTrackr, an e-health progressive web app : https://medtrackr.quoicoucorp.frMedTrackr</li>
   </ul>
 
   <h2>📫 How to Reach Me:</h2>
   <ul>
-    <li><a src="https://www.linkedin.com/in/lucas-buonocore-421580214/">LinkedIn</a></li>
+    <li>LinkedIn : https://www.linkedin.com/in/lucas-buonocore-421580214/</li>
     <!-- Add other contact methods if necessary -->
   </ul>
 
