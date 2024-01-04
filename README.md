@@ -25,5 +25,6 @@
   
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukyyy9&show_icons=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukyyy9&layout=donut)
-![2B](https://media.discordapp.net/attachments/696115202185232497/1192393975844306974/nier-automata-video-game-platinum-games-tf-2-305e37f73a23f5e3cd24aa90da31600c.png?ex=65a8ea6d&is=6596756d&hm=49c6f39a77327c4c1d68cff129fa27f552319a3ffb000c520a8ade4f6e053094&=&format=webp&quality=lossless&width=640&height=640)
+![2B](https://media.discordapp.net/attachments/696115202185232497/1192393975844306974/nier-automata-video-game-platinum-games-tf-2-305e37f73a23f5e3cd24aa90da31600c.png?ex=65a8ea6d&is=6596756d&hm=49c6f39a77327c4c1d68cff129fa27f552319a3ffb000c520a8ade4f6e053094&=&format=webp&quality=lossless&width=640&height=640)       
+![Yorha](https://static.wikia.nocookie.net/nier-series/images/f/f4/Flat%2C800x800%2C070%2Cf.jpg/revision/latest?cb=20210515032154&path-prefix=fr)
 
