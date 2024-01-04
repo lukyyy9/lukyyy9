@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img style="margin: auto;" src="https://otakugame.fr/wp-content/uploads/2016/12/nier-box_art.jpg"/>
+  <img style="margin: auto;" src="https://moewalls.com/wp-content/uploads/2023/06/2b-city-ruins-nier-automata-thumb.jpg"/>
 </div>
 
 <div style="margin: 15px;">
