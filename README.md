@@ -11,7 +11,7 @@
   <p>Hello! I'm lukyyy9, a full-stack developer in apprenticeship at Monaco Telecom. I'm passionate about both front-end and back-end technologies, constantly learning and applying new skills to solve real-world problems.</p>
 
   <h2>🎯 My Work</h2>
-  <p>Here you'll find a range of projects showcasing my journey in web development. Feel free to explore!</p>
+  <p>Here you'll find a range of projects showcasing my journey in development. Feel free to explore!</p>
   <ul>
     <li>MedTrackr, an e-health progressive web app : https://medtrackr.quoicoucorp.fr</li>
   </ul>
