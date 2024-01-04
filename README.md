@@ -13,7 +13,7 @@
   <h2>🎯 My Work</h2>
   <p>Here you'll find a range of projects showcasing my journey in web development. Feel free to explore!</p>
   <ul>
-    <li>MedTrackr, an e-health progressive web app : https://medtrackr.quoicoucorp.frMedTrackr</li>
+    <li>MedTrackr, an e-health progressive web app : https://medtrackr.quoicoucorp.fr</li>
   </ul>
 
   <h2>📫 How to Reach Me:</h2>
