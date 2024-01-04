@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img style="margin: auto;" src="https://otakugame.fr/wp-content/uploads/2016/12/nier-box_art.jpg"/>
+  <img style="margin: auto; border-radius:16px;" src="https://otakugame.fr/wp-content/uploads/2016/12/nier-box_art.jpg"/>
 </div>
 
 <div style="margin: 15px;">
