@@ -24,4 +24,4 @@
   <h2>📈 My Stats</h2>
   
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukyyy9&show_icons=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukyyy9&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukyyy9&layout=donut)
