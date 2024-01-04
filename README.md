@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img style="margin: auto;" src="https://moewalls.com/wp-content/uploads/2023/06/2b-city-ruins-nier-automata-thumb.jpg"/>
+  <img style="margin: auto;" src="https://cdn.discordapp.com/attachments/696115202185232497/1192489818744164492/68747470733a2f2f6d6f6577616c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30362f32622d636974792d7275696e732d6e6965722d6175746f6d6174612d7468756d622e6a7067-modified.png?ex=65a943b0&is=6596ceb0&hm=38cb18d8379bac98115dedaaa4a3080966a084ec38e7dd74b938afb05ae94bd6&"/>
 </div>
 
 <div style="margin: 15px;">
