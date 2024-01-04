@@ -2,7 +2,7 @@
   <h1>Welcome to Lukyyy9's GitHub Profile 👋</h1>
 </div>
 
-<img src="https://otakugame.fr/wp-content/uploads/2016/12/nier-box_art.jpg"/>
+<img style="width: 100%;" src="https://otakugame.fr/wp-content/uploads/2016/12/nier-box_art.jpg"/>
 
 <div style="margin: 15px;">
   <h2>🚀 About Me</h2>
