@@ -2,7 +2,9 @@
   <h1>Welcome to lukyyy9's GitHub Profile 👋</h1>
 </div>
 
-<img style="margin: auto;" src="https://otakugame.fr/wp-content/uploads/2016/12/nier-box_art.jpg"/>
+<div align="center">
+  <img style="margin: auto;" src="https://otakugame.fr/wp-content/uploads/2016/12/nier-box_art.jpg"/>
+</div>
 
 <div style="margin: 15px;">
   <h2>🚀 About Me</h2>
@@ -17,9 +19,6 @@
   <h2>📫 How to Reach Me:</h2>
   <ul>
     <li>LinkedIn : https://www.linkedin.com/in/lucas-buonocore-421580214/</li>
-    <!-- Add other contact methods if necessary -->
   </ul>
 
-<div align="center">
-  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukyyy9&show_icons=true)
-</div>
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukyyy9&show_icons=true)
