@@ -24,8 +24,8 @@
   <h2>📈 My Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=lukyyy9" style="margin-bottom: auto; margin-top: auto;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukyyy9&layout=donut" style="margin-bottom: auto; margin-top: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=lukyyy9" style="margin-bottom: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukyyy9&layout=donut"/>
 </div>
 
 <div align="center">
