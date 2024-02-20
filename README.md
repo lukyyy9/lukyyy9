@@ -13,8 +13,8 @@
   <h2>🎯 My Work</h2>
   <p>Here you'll find a range of projects showcasing my journey in development. Feel free to explore!</p>
   
-  - [MedTrackr, an e-health progressive web app](https://github.com/lukyyy9/medtrackr-fe)
-  - [DeezcordRPC, a rich-presence Discord-Deezer status syncronizer](https://github.com/lukyyy9/DeezcordRPC)
+  - [MedTrackr](https://github.com/lukyyy9/medtrackr-fe), an e-health progressive web app
+  - [DeezcordRPC](https://github.com/lukyyy9/DeezcordRPC), a rich-presence Discord-Deezer status syncronizer
   
 
   <h2>📫 How to Reach Me:</h2>
