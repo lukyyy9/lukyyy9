@@ -18,9 +18,8 @@
   
 
   <h2>📫 How to Reach Me:</h2>
-  <ul>
-    <li>LinkedIn : https://www.linkedin.com/in/lucas-buonocore-421580214/</li>
-  </ul>
+
+    - [LinkedIn](https://www.linkedin.com/in/lucas-buonocore-421580214)
 
   <h2>📈 My Stats</h2>
 
