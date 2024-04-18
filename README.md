@@ -1,4 +1,4 @@
-![image](https://github.com/lukyyy9/lukyyy9/assets/65600775/d95ef2e0-6d1d-4636-8bbc-774f9dc13e1c)<div align="center">
+<div align="center">
   <h1>Welcome to my profile 👋</h1>
 </div>
 
