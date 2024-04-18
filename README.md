@@ -1,9 +1,9 @@
-<div align="center">
+![image](https://github.com/lukyyy9/lukyyy9/assets/65600775/d95ef2e0-6d1d-4636-8bbc-774f9dc13e1c)<div align="center">
   <h1>Welcome to my profile 👋</h1>
 </div>
 
 <div align="center">
-  <img style="margin: auto;" src="https://i.ibb.co/V2k0HdN/p74-Id7-NGh-OB9j-WVCJl-Br-CHFu-TBBKOdy-Md-Re-NXOc-B.png"/>
+  <img style="margin: auto;" src="https://i.imgur.com/tJCUMEz.png"/>
 </div>
 
 <div style="margin: 15px;">
