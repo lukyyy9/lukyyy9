@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img style="margin: auto;" src="https://cdn.discordapp.com/attachments/696115202185232497/1224634630494486528/p74Id7NGhOB9jWVCJlBrCHFuTBBKOdyMdReNXOcB.png?ex=661e34e0&is=660bbfe0&hm=3f804d878745f41c137a540498f5fc0a9a282003a281174ab1c8fb0a42ba2ccd&"/>
+  <img style="margin: auto;" src="https://imgur.com/a/eWXwGRM"/>
 </div>
 
 <div style="margin: 15px;">
