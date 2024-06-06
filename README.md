@@ -16,6 +16,8 @@
   - [MedTrackr](https://github.com/lukyyy9/medtrackr-fe), an e-health progressive web app.
   - [DeezcordRPC](https://github.com/lukyyy9/DeezcordRPC), a rich-presence Discord app that synchronize your status with the music you are listening to.
   - [Distant](https://github.com/lukyyy9/Distant-Bot), a Discord bot who fights against social networks bad embedded messages.
+  - Depine, WIP
+  - Unnamed RPG, WIP
   
 
   <h2>📫 How to Reach Me:</h2>
