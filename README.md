@@ -18,7 +18,7 @@
   - [Distant](https://github.com/lukyyy9/Distant-Bot), a Discord bot who fights against social networks bad embedded messages.
   - Depine, WIP
   - Unnamed RPG, WIP
-  - Unnamed RabbitMQ enhanced UI
+  - Unnamed RabbitMQ enhanced UI, WIP
   
 
   <h2>📫 How to Reach Me:</h2>
