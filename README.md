@@ -19,6 +19,7 @@
   - Depine, WIP
   - Unnamed RPG, WIP
   - Bunnymancer, an enhanced UI for RabbitMQ to better handle DLQs, WIP
+  - [TimeManager](https://github.com/lukyyy9/T-POO-700-NCE_10), an enterprise clocking system made in Elixir.
   
 
   <h2>📫 How to Reach Me:</h2>
