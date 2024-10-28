@@ -28,7 +28,11 @@
 
   <h2 align="left">🧰 Languages and Tools:</h2>
   
-  [![My Skills](https://skillicons.dev/icons?i=androidstudio,apple,arduino,autocad,aws,azure,c,cpp,cloudflare,css,debian,discord,bots,discordjs,docker,dynamodb,elixir,figma,firebase,gamemakerstudio,git,github,githubactions,gitlab,heroku,hibernate,html,idea,instagram,java,js,jest,kali,kubernetes,latex,materialui,maven,mongodb,mysql,nestjs,nextjs,nodejs,notion,npm,ps,postgres,postman,powershell,py,rabbitmq,react,rust,spring,tailwind,tauri,threejs,ts,ubuntu,vite,vscode,vue,windows)](https://skillicons.dev)
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=androidstudio,apple,arduino,autocad,aws,azure,c,cpp,cloudflare,css,debian,discord,bots,discordjs,docker,dynamodb,elixir,figma,firebase,gamemakerstudio,git,github,githubactions,gitlab,heroku,hibernate,html,idea,instagram,java,js,jest,kali,kubernetes,latex,materialui,maven,mongodb,mysql,nestjs,nextjs,nodejs,notion,npm,ps,postgres,postman,powershell,py,rabbitmq,react,rust,spring,tailwind,tauri,threejs,ts,ubuntu,vite,vscode,vue,windows" />
+    </a>
+  </p>
 
 
   <h2>📈 My Stats</h2>
