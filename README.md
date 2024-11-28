@@ -31,10 +31,14 @@
   <h3>Languages, Frameworks, and Databases</h3>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vite,tauri,react,nextjs,vue,nestjs,tailwind,threejs,materialui,discordjs"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vite,tauri,react,nextjs,vue,nestjs,tailwind,threejs,materialui,discordjs"  />
+    </br>
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate"/>
+    </br>
     <img src="https://skillicons.dev/icons?i=c,cpp,py,rust,elixir"/>
+    </br>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb"/>
+    
   </a>
 
   <h3>Cloud</h3>
