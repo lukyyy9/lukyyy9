@@ -31,12 +31,16 @@
   <h3>Languages, Frameworks, and Databases</h3>
   
   <a href="https://skillicons.dev">
+    <h4>JavaScript & TypeScript</h4>
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vite,tauri,react,nextjs,vue,nestjs,tailwind,threejs,materialui,discordjs"  />
     </br>
+    <h4>Java</h4>
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate"/>
     </br>
+    <h4>Others</h4>
     <img src="https://skillicons.dev/icons?i=c,cpp,py,rust,elixir"/>
     </br>
+    <h4>Databases</h4>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb"/>
     
   </a>
