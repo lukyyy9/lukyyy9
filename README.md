@@ -30,59 +30,45 @@
 
   <h3>Languages, Frameworks, and Databases</h3>
   
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,rust,elixir,react,nextjs,nestjs,spring,threejs,materialui,tailwind,hibernate,mysql,postgres,mongodb,dynamodb,rabbitmq,vite"/>
-    </a>
-  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,rust,elixir,react,nextjs,nestjs,spring,threejs,materialui,tailwind,hibernate,mysql,postgres,mongodb,dynamodb,rabbitmq,vite"/>
+  </a>
 
   <h3>Cloud</h3>
   
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,firebase,docker,kubernetes,githubactions,heroku" />
-    </a>
-  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,firebase,docker,kubernetes,githubactions,heroku" />
+  </a>
 
   <h3>Design and Prototyping</h3>
   
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=figma,ps,autocad" />
-    </a>
-  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,autocad" />
+  </a>
 
   <h3>Operating Systems</h3>
   
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ubuntu,debian,windows,kali" />
-    </a>
-  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,debian,windows,kali" />
+  </a>
 
   <h3>Social Media and Bots</h3>
   
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=discord,discordjs,instagram" />
-    </a>
-  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,discordjs,instagram" />
+  </a>
 
   <h3>IDEs</h3>
   
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio" />
-    </a>
-  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio" />
+  </a>
 
   <h3>Miscellaneous</h3>
   
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=arduino,gamemakerstudio,tauri,notion,latex,postman,git,github,gitlab,npm,maven" />
-    </a>
-  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,gamemakerstudio,tauri,notion,latex,postman,git,github,gitlab,npm,maven" />
+  </a>
 
 
   <h2>📈 My Stats</h2>
