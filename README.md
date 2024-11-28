@@ -52,7 +52,7 @@
     <img src="https://skillicons.dev/icons?i=ubuntu,debian,windows,kali" />
   </a>
 
-  <h3>Social Media and Bots</h3>
+  <h3>Bots</h3>
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,instagram" />
