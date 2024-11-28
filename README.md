@@ -31,7 +31,7 @@
   <h3>Languages, Frameworks, and Databases</h3>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,vite,tauri,react,nextjs,vue,nestjs,tailwind,threejs,materialui,discordjs,java,spring,hibernate,c,cpp,py,rust,elixir,mysql,postgres,mongodb,dynamodb,rabbitmq"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,node,vite,tauri,react,nextjs,vue,nestjs,tailwind,threejs,materialui,discordjs,java,spring,hibernate,c,cpp,py,rust,elixir,mysql,postgres,mongodb,dynamodb"/>
   </a>
 
   <h3>Cloud</h3>
@@ -67,7 +67,7 @@
   <h3>Miscellaneous</h3>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion,latex,postman,git,github,gitlab,npm,maven" />
+    <img src="https://skillicons.dev/icons?i=notion,latex,postman,git,github,gitlab,npm,maven,rabbitmq" />
   </a>
 
 
