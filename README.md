@@ -61,13 +61,13 @@
   <h3>IDEs</h3>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,gamemakerstudio" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,gamemakerstudio,arduino" />
   </a>
 
   <h3>Miscellaneous</h3>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,notion,latex,postman,git,github,gitlab,npm,maven" />
+    <img src="https://skillicons.dev/icons?i=notion,latex,postman,git,github,gitlab,npm,maven" />
   </a>
 
 
