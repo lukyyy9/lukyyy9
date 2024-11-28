@@ -75,7 +75,7 @@
   <h3>Miscellaneous</h3>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion,latex,postman,git,github,gitlab,npm,maven,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=notion,latex,postman,git,github,gitlab,npm,maven,rabbitmq,powershell" />
   </a>
 
 
