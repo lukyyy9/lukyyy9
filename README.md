@@ -31,7 +31,7 @@
   <h3>Languages, Frameworks, and Databases</h3>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,rust,elixir,react,nextjs,nestjs,spring,threejs,materialui,tailwind,hibernate,mysql,postgres,mongodb,dynamodb,rabbitmq,vite"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,rust,elixir,react,nextjs,tauri,nestjs,spring,threejs,materialui,tailwind,discordjs,hibernate,mysql,postgres,mongodb,dynamodb,rabbitmq,vite"/>
   </a>
 
   <h3>Cloud</h3>
@@ -55,19 +55,19 @@
   <h3>Social Media and Bots</h3>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,discordjs,instagram" />
+    <img src="https://skillicons.dev/icons?i=discord,instagram" />
   </a>
 
   <h3>IDEs</h3>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,gamemakerstudio" />
   </a>
 
   <h3>Miscellaneous</h3>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,gamemakerstudio,tauri,notion,latex,postman,git,github,gitlab,npm,maven" />
+    <img src="https://skillicons.dev/icons?i=arduino,notion,latex,postman,git,github,gitlab,npm,maven" />
   </a>
 
 
