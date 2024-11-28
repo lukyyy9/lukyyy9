@@ -26,11 +26,61 @@
   
   - [LinkedIn](https://www.linkedin.com/in/lucas-buonocore)
 
-  <h2 align="left">🧰 Languages and Tools:</h2>
+  <h2 align="left">🧰 Skills:</h2>
+
+  <h3>Languages, Frameworks, and Databases</h3>
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=androidstudio,apple,arduino,autocad,aws,azure,c,cpp,cloudflare,css,debian,discord,bots,discordjs,docker,dynamodb,elixir,figma,firebase,gamemakerstudio,git,github,githubactions,gitlab,heroku,hibernate,html,idea,instagram,java,js,jest,kali,kubernetes,latex,materialui,maven,mongodb,mysql,nestjs,nextjs,nodejs,notion,npm,ps,postgres,postman,powershell,py,rabbitmq,react,rust,spring,tailwind,tauri,threejs,ts,ubuntu,vite,vscode,vue,windows" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,rust,elixir,react,nextjs,nestjs,spring,threejs,materialui,tailwind,hibernate,mysql,postgres,mongodb,dynamodb,rabbitmq,vite"/>
+    </a>
+  </p>
+
+  <h3>Cloud</h3>
+  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,firebase,docker,kubernetes,githubactions,heroku" />
+    </a>
+  </p>
+
+  <h3>Design and Prototyping</h3>
+  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=figma,ps,autocad" />
+    </a>
+  </p>
+
+  <h3>Operating Systems</h3>
+  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ubuntu,debian,windows,kali" />
+    </a>
+  </p>
+
+  <h3>Social Media and Bots</h3>
+  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=discord,discordjs,instagram" />
+    </a>
+  </p>
+
+  <h3>IDEs</h3>
+  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio" />
+    </a>
+  </p>
+
+  <h3>Miscellaneous</h3>
+  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=arduino,gamemakerstudio,tauri,notion,latex,postman,git,github,gitlab,npm,maven" />
     </a>
   </p>
 
