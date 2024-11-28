@@ -49,7 +49,7 @@
   <h3>Operating Systems</h3>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,apple,windows,ubuntu,debian" />
+    <img src="https://skillicons.dev/icons?i=kali,apple,windows" />
   </a>
 
   <h3>Bots</h3>
