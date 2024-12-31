@@ -12,14 +12,15 @@
 
   <h2>🎯 My Work</h2>
   <p>Here you'll find a range of projects showcasing my journey in development. Feel free to explore!</p>
-  
+
+  - Reave, an E-sport hub.
   - [MedTrackr](https://github.com/lukyyy9/medtrackr-fe), an e-health progressive web app.
   - [DeezcordRPC](https://github.com/lukyyy9/DeezcordRPC), a rich-presence Discord app that synchronize your status with the music you are listening to.
   - [Distant](https://github.com/lukyyy9/Distant-Bot), a Discord bot who fights against social networks bad embedded messages.
-  - Depine, WIP
+  - [TimeManager](https://github.com/lukyyy9/T-POO-700-NCE_10), an enterprise clocking system made in Elixir.
+  - Depine, an IT onboarding automation app, WIP
   - Unnamed RPG, WIP
   - Bunnymancer, an enhanced UI for RabbitMQ to better handle DLQs, WIP
-  - [TimeManager](https://github.com/lukyyy9/T-POO-700-NCE_10), an enterprise clocking system made in Elixir.
   
 
   <h2>📫 How to Reach Me:</h2>
