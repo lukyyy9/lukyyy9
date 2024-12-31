@@ -8,7 +8,7 @@
 
 <div style="margin: 15px;">
   <h2>🚀 About Me</h2>
-  <p>Hello! I'm lukyyy9, a full-stack developer in an apprenticeship at Monaco Telecom. I'm passionate about front-end and back-end technologies, constantly learning and applying new skills to solve real-world problems.</p>
+  <p>Hello! I'm Lucas, a full-stack developer in an apprenticeship at Monaco Telecom. I'm passionate about front-end and back-end technologies, constantly learning and applying new skills to solve real-world problems.</p>
 
   <h2>🎯 My Work</h2>
   <p>Here you'll find a range of projects showcasing my journey in development. Feel free to explore!</p>
