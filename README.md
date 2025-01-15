@@ -19,9 +19,9 @@
   - [DeezcordRPC](https://github.com/lukyyy9/DeezcordRPC), a rich-presence Discord app that synchronize your status with the music you are listening to.
   - [Distant](https://github.com/lukyyy9/Distant-Bot), a Discord bot who fights against social networks bad embedded messages.
   - [TimeManager](https://github.com/lukyyy9/T-POO-700-NCE_10), an enterprise clocking system made in Elixir.
-  - Depine, an IT onboarding automation app, WIP
-  - Unnamed RPG, WIP
-  - Bunnymancer, an enhanced UI for RabbitMQ to better handle DLQs, WIP
+  - Depine, an IT onboarding automation app, WIP.
+  - Bunnymancer, an enhanced UI for RabbitMQ to better handle DLQs, WIP.
+  - Trinity, a complete inventory and barcode scanning solution for supermarkets, WIP.
   
 
   <h2>📫 How to Reach Me:</h2>
