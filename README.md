@@ -20,8 +20,8 @@
   - [Distant](https://github.com/lukyyy9/Distant-Bot), a Discord bot who fights against social networks bad embedded messages.
   - [TimeManager](https://github.com/lukyyy9/T-POO-700-NCE_10), an enterprise clocking system made in Elixir.
   - Depine, an IT onboarding automation app.
-  - Bunnymancer, an enhanced UI for RabbitMQ to better handle DLQs, WIP.
   - Trinity, a complete inventory and barcode scanning solution for supermarkets.
+  - DeadLetter Opener, an enhanced UI for RabbitMQ to better handle DLQs, WIP.
   - Cartonord, a webapp to create, publish, and manage multi‑layered geo‑spatial maps for cartographs, WIP.
   
 
