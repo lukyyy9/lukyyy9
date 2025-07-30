@@ -22,7 +22,7 @@
   - Depine, an IT onboarding automation app.
   - Trinity, a complete inventory and barcode scanning solution for supermarkets.
   - DeadLetter Opener, an enhanced UI for RabbitMQ to better handle DLQs, WIP.
-  - Cartonord, a webapp to create, publish, and manage multi‑layered geo‑spatial maps for cartographs, WIP.
+  - Cartonord, an app to create, edit and publish maps from geojson files, WIP.
   
 
   <h2>📫 How to Reach Me:</h2>
