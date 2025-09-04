@@ -8,7 +8,7 @@
 
 <div style="margin: 15px;">
   <h2>🚀 About Me</h2>
-  <p>Hello! I'm Lucas, a full-stack developer in an apprenticeship at Monaco Telecom. I'm passionate about pentesting and new technologies.</p>
+  <p>Hello! I'm Lucas, a cybersecurity engineer at Monaco Telecom. I'm passionate about pentesting and new technologies.</p>
   <img src="https://tryhackme-badges.s3.amazonaws.com/lukyyy.png" alt="TryHackMe Badge" />
 
   <h2>🎯 My Work</h2>
