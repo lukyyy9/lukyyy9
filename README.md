@@ -9,7 +9,7 @@
 <div style="margin: 15px;">
   <h2>🚀 About Me</h2>
   <p>Hello! I'm Lucas, a cybersecurity engineer at Monaco Telecom. I'm passionate about pentesting and new technologies.</p>
-  <img src="https://3.5.67.186/lukyyy.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/lukyyy.png" alt="Your Image Badge" />
 
   <h2>🎯 My Work</h2>
   <p>Here you'll find a range of projects showcasing my journey in development. Feel free to explore!</p>
