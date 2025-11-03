@@ -8,7 +8,10 @@
 
 <div style="margin: 15px;">
   <h2>🚀 About Me</h2>
-  <p>Hello! I'm Lucas, a cybersecurity engineer at Monaco Telecom. I'm passionate about penetration testing, security research, and exploring new technologies.</p>
+  <p>Hello! I'm Lucas, a cybersecurity engineer at Monaco Telecom.</p>
+  <p> I hold a university-level Bachelor's degree (BUT) and I am currently in my final year of a Master's program at Epitech, majoring in Cybersecurity.</p>
+  <p> I studied my full 5-year curriculum on a work-study basis. </p>
+  <p> I'm passionate about penetration testing, security research, and exploring new technologies.</p>
 
 Check out my TryHackMe profile <a href="https://tryhackme.com/p/lukyyy">here</a>!
 
