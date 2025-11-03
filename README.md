@@ -3,12 +3,13 @@
 </div>
 
 <div align="center">
-  <img style="margin: auto;" src="https://i.imgur.com/tJCUMEz.png"/>
+  <img style="margin: auto;" src="https://media.licdn.com/dms/image/v2/D4E16AQEIQjeYlZQIVQ/profile-displaybackgroundimage-shrink_350_1400/B4EZoOUEHcKgAc-/0/1761176733158?e=1763596800&v=beta&t=BidVoyZQYRNZhf7daCXJztUEZLsPdSnj-YifnKifHd0"/>
 </div>
 
 <div style="margin: 15px;">
   <h2>🚀 About Me</h2>
   <p>Hello! I'm Lucas, a cybersecurity engineer at Monaco Telecom. I'm passionate about pentesting and new technologies.</p>
+  Check my TryHackMe profile [here](https://tryhackme.com/p/lukyyy) !
   <img src="https://tryhackme-badges.s3.amazonaws.com/lukyyy.png" alt="Your Image Badge" />
 
   <h2>🎯 My Work</h2>
@@ -28,58 +29,6 @@
   <h2>📫 How to Reach Me:</h2>
   
   - [LinkedIn](https://www.linkedin.com/in/lucas-buonocore)
-
-  <h2 align="left">🧰 Skills:</h2>
-
-  <h3>Languages, Frameworks, and Databases</h3>
-  
-  <h4>JavaScript & TypeScript</h4>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vite,tauri,react,nextjs,vue,nestjs,tailwind,threejs,materialui,discordjs"  />
-  </br>
-  <h4>Java</h4>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate"/>
-  </br>
-  <h4>Others</h4>
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,rust,elixir"/>
-  </br>
-  <h4>Databases</h4>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb"/>
-
-  <h3>Cloud</h3>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,firebase,docker,kubernetes,githubactions,heroku" />
-  </a>
-
-  <h3>Design and Prototyping</h3>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,autocad" />
-  </a>
-
-  <h3>Operating Systems</h3>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,apple,windows" />
-  </a>
-
-  <h3>Bots</h3>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,instagram" />
-  </a>
-
-  <h3>IDEs</h3>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,gamemakerstudio,arduino" />
-  </a>
-
-  <h3>Miscellaneous</h3>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion,latex,postman,git,github,gitlab,npm,maven,rabbitmq,powershell" />
-  </a>
 
 
   <h2>📈 My Stats</h2>
