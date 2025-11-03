@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Welcome to my profile 👋</h1>
+  <h1>Hi there, I'm Lucas 👋</h1>
 </div>
 
 <div align="center">
@@ -8,34 +8,35 @@
 
 <div style="margin: 15px;">
   <h2>🚀 About Me</h2>
-  <p>Hello! I'm Lucas, a cybersecurity engineer at Monaco Telecom. I'm passionate about pentesting and new technologies.</p>
-  
-  Check my TryHackMe profile [here](https://tryhackme.com/p/lukyyy) !
-  
-  <img src="https://tryhackme-badges.s3.amazonaws.com/lukyyy.png" alt="Your Image Badge" />
+  <p>Hello! I'm Lucas, a cybersecurity engineer at Monaco Telecom. I'm passionate about penetration testing, security research, and exploring new technologies.</p>
 
-  <h2>🎯 My Work</h2>
-  <p>Here you'll find a range of projects showcasing my journey in development. Feel free to explore!</p>
+Check out my TryHackMe profile <a href="https://tryhackme.com/p/lukyyy">here</a>!
 
-  - Reave, an E-sport hub.
-  - [MedTrackr](https://github.com/lukyyy9/medtrackr-fe), an e-health progressive web app.
-  - [DeezcordRPC](https://github.com/lukyyy9/DeezcordRPC), a rich-presence Discord app that synchronize your status with the music you are listening to.
-  - [Distant](https://github.com/lukyyy9/Distant-Bot), a Discord bot who fights against social networks bad embedded messages.
-  - [TimeManager](https://github.com/lukyyy9/T-POO-700-NCE_10), an enterprise clocking system made in Elixir.
-  - Depine, an IT onboarding automation app.
-  - Trinity, a complete inventory and barcode scanning solution for supermarkets.
-  - DeadLetter Opener, an enhanced UI for RabbitMQ to better handle DLQs, WIP.
-  - Cartonord, an app to create, edit and publish maps from geojson files, WIP.
-  
+  <br/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/lukyyy.png?cache-control=no-cache" alt="TryHackMe Badge" />
 
-  <h2>📫 How to Reach Me:</h2>
-  
-  - [LinkedIn](https://www.linkedin.com/in/lucas-buonocore)
+  <h2>👨‍💻 Software Development</h2>
+  <p>I began my career as a software developer before transitioning to cybersecurity. Throughout my studies, my personnal and professional work, I've built several interesting projects, including:</p>
 
+* <strong>Crackhouse</strong>: A secured homelab for hosting media, bots, and web apps.
+* <strong>Cartonord</strong>: An app for creating, editing, and publishing maps from GeoJSON files (WIP).
+* <strong>Depine</strong>: IT onboarding automation application.
+* <strong>DeadLetter Opener</strong>: Enhanced UI for RabbitMQ to manage DLQs efficiently.
+* <strong>Trinity</strong>: Complete inventory and barcode scanning solution for supermarkets.
+* <strong><a href="https://github.com/lukyyy9/T-POO-700-NCE_10">TimeManager</a></strong>: Enterprise clocking system developed in Elixir.
+* <strong><a href="https://github.com/lukyyy9/Distant-Bot">Distant</a></strong>: Discord bot improving social network message embedding.
+* <strong><a href="https://github.com/lukyyy9/DeezcordRPC">DeezcordRPC</a></strong>: Discord rich-presence app that syncs your status with the music you’re listening to.
+* <strong><a href="https://github.com/lukyyy9/medtrackr-fe">MedTrackr</a></strong>: Progressive web app for e-health management.
+* <strong>Reave</strong>: E-sport hub platform.
 
-  <h2>📈 My Stats</h2>
+  <h2>📫 Connect With Me</h2>
+
+* <a href="https://www.linkedin.com/in/lucas-buonocore">LinkedIn</a>
+
+  <h2>📈 My GitHub Stats</h2>
 
 <div align="center">
-  <img style="height:195px;" src="https://github-readme-stats.vercel.app/api/?username=lukyyy9"/>
-  <img style="height:195px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukyyy9&layout=donut"/>
+  <img style="height:195px;" src="https://github-readme-stats.vercel.app/api/?username=lukyyy9&show_icons=true&theme=radical"/>
+  <img style="height:195px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukyyy9&layout=donut&theme=radical"/>
+</div>
 </div>
