@@ -21,7 +21,7 @@ Check out my TryHackMe profile <a href="https://tryhackme.com/p/lukyyy">here</a>
   <h2>👨‍💻 Software Development</h2>
   <p>I began my career as a software developer before transitioning to cybersecurity. Throughout my studies, my personnal and professional work, I've built several interesting projects, including:</p>
 
-* <strong>DEDBot</strong>: A Discord bot designed to optimize DCA (Dollar-Cost Averaging) investment entries.
+* <strong>DEDBot</strong>: A Discord bot designed to optimize DCA (Dollar-Cost Averaging) investment entries, improving performances by an average of 5.56%.
 * <strong>Crackhouse</strong>: A secured homelab for hosting media, bots, and web apps.
 * <strong>Cartonord</strong>: An app for creating, editing, and publishing maps from GeoJSON files (WIP).
 * <strong>Depine</strong>: IT onboarding automation application.
