@@ -16,7 +16,7 @@
 Check out my TryHackMe profile <a href="https://tryhackme.com/p/lukyyy">here</a>!
 
   <br/>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/lukyyy.png?cache-control=no-cache" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/lukyyy.png?1" alt="TryHackMe Badge" />
 
   <h2>👨‍💻 Software Development</h2>
   <p>I began my career as a software developer before transitioning to cybersecurity. Throughout my studies, my personnal and professional work, I've built several interesting projects, including:</p>
