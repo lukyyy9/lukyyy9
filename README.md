@@ -13,13 +13,11 @@
   <p> I studied my full 5-year curriculum on a work-study basis. </p>
   <p> I'm passionate about penetration testing, security research, and exploring new technologies.</p>
 
-Check out my TryHackMe profile <a href="https://tryhackme.com/p/lukyyy">here</a>!
-
   <br/>
   <img src="https://tryhackme-badges.s3.amazonaws.com/lukyyy.png?1" alt="TryHackMe Badge" />
 
   <h2>👨‍💻 Software Development</h2>
-  <p>I began my career as a software developer before transitioning to cybersecurity. Throughout my studies, my personnal and professional work, I've built several interesting projects, including:</p>
+  <p>I began my career as a software developer before specializing in cybersecurity. Throughout my studies, my personnal and my professional work, I've built several interesting projects, including:</p>
 
 * <strong><a href="https://github.com/lukyyy9/dedbot">DEDBot</a></strong>: A Discord bot designed to optimize DCA (Dollar-Cost Averaging) investment entries (currently improving my personnal performances by an average of 6.19%)
 * <strong>Crackhouse</strong>: A secured homelab for hosting media, bots, and web apps.
@@ -36,6 +34,7 @@ Check out my TryHackMe profile <a href="https://tryhackme.com/p/lukyyy">here</a>
   <h2>📫 Connect With Me</h2>
 
 * <a href="https://www.linkedin.com/in/lucas-buonocore">LinkedIn</a>
+* <a href="https://tryhackme.com/p/lukyyy">TryHackMe</a>
 
   <h2>📈 My GitHub Stats</h2>
 
