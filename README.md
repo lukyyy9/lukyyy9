@@ -18,7 +18,8 @@
   <h2>👨‍💻 Software Development</h2>
   <p>I began my career as a software developer before specializing in cybersecurity. Throughout my studies, my personnal and my professional work, I've built several interesting projects, including:</p>
 
-* <strong><a href="https://github.com/lukyyy9/dedbot">DEDBot</a></strong>: A Discord bot designed to optimize DCA (Dollar-Cost Averaging) investment entries (currently improving my personnal performances by an average of 6.19%)
+* <strong><a href="https://lukyyy9.github.io/vibe-architect/">Vibe Architect</a></strong>: A canva to help you speed up the process of scaffolding vibe-coded projects.
+* <strong><a href="https://github.com/lukyyy9/dedbot">DEDBot</a></strong>: A Discord bot designed to optimize DCA (Dollar-Cost Averaging) investment entries (currently improving my personnal performances by an average of 6.19%).
 * <strong>Crackhouse</strong>: A secured homelab for hosting media, bots, and web apps.
 * <strong>Cartonord</strong>: An app for creating, editing, and publishing maps from GeoJSON files (WIP).
 * <strong>Depine</strong>: IT onboarding automation application.
