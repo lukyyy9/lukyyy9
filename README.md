@@ -13,7 +13,7 @@
   <p> I studied my full 5-year curriculum on a work-study basis. </p>
   <p> I'm passionate about penetration testing, security research, and exploring new technologies.</p>
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/lukyyy.png?2" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/lukyyy.png?3" alt="TryHackMe Badge" />
 
   <h2>👨‍💻 Software Development</h2>
   <p>I began my career as a software developer before specializing in cybersecurity. Throughout my studies, my personnal and my professional work, I've built several interesting projects, including:</p>
