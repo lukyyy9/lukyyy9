@@ -36,11 +36,4 @@
 
 * <a href="https://www.linkedin.com/in/lucas-buonocore">LinkedIn</a>
 * <a href="https://tryhackme.com/p/lukyyy">TryHackMe</a>
-
-  <h2>📈 My GitHub Stats</h2>
-
-<div align="center">
-  <img style="height:195px;" src="https://github-readme-stats.vercel.app/api/?username=lukyyy9&show_icons=true&theme=radical"/>
-  <img style="height:195px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukyyy9&layout=donut&theme=radical"/>
-</div>
 </div>
