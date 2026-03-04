@@ -18,6 +18,7 @@
   <h2>👨‍💻 Software Development</h2>
   <p>I began my career as a software developer before specializing in cybersecurity. Throughout my studies, my personnal and my professional work, I've built several interesting projects, including:</p>
 
+* <strong>K8s-puller</strong>: A cronjob made in Spring Boot made to synchronize da database with Kubernetes and JFrog Xray data, made to provide a efficient security dashboard.
 * <strong>Gnomeo</strong>: A virtual reality platform using AI to generate 3D worlds.
 * <strong><a href="https://marketplace.visualstudio.com/items?itemName=luky9.vibe-architect-vscode">Vibe Architect VSCode Extension</a></strong>: A canva in Visual Studio Code to help you speed up the process of scaffolding vibe-coded projects.
 * <strong><a href="https://github.com/lukyyy9/dedbot">DEDBot</a></strong>: A Discord bot designed to optimize DCA (Dollar-Cost Averaging) investment entries (currently improving my personnal performances by an average of 6.19%).
