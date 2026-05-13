@@ -18,6 +18,7 @@
   <h2>👨‍💻 Software Development</h2>
   <p>I began my career as a software developer before specializing in cybersecurity. Throughout my studies, my personnal and my professional work, I've built several interesting projects, including:</p>
 
+* <strong><a href="https://github.com/lukyyy9/yt-dl-ios-shortcut">yt-dl-ios-shortcut</a></strong>: A FastAPI server that integrates with two iOS Shortcuts to enable one-tap YouTube downloads to your iPhone, featuring async processing, quality limiting and automatic server cleanup.
 * <strong>K8s-puller</strong>: A backend made with Spring Boot to synchronize a database with Kubernetes and JFrog Xray real-time data, made to provide an efficient security dashboard.
 * <strong>Gnomeo</strong>: A virtual reality platform using AI to generate 3D worlds.
 * <strong><a href="https://marketplace.visualstudio.com/items?itemName=luky9.vibe-architect-vscode">Vibe Architect VSCode Extension</a></strong>: A canva in Visual Studio Code to help you speed up the process of scaffolding vibe-coded projects.
