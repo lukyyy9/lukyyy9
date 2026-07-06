@@ -25,15 +25,15 @@
 * <strong><a href="https://marketplace.visualstudio.com/items?itemName=luky9.vibe-architect-vscode">Vibe Architect VSCode Extension</a></strong>: A canva in Visual Studio Code to help you speed up the process of scaffolding vibe-coded projects.
 * <strong><a href="https://github.com/lukyyy9/dedbot">DEDBot</a></strong>: A Discord bot designed to optimize DCA (Dollar-Cost Averaging) investment entries (currently improving my personnal performances by an average of 6.19%).
 * <strong>Homelab</strong>: A secured homelab for hosting media, bots, and web apps.
-* <strong>Cartonord</strong>: An app for creating, editing, and publishing maps from GeoJSON files (WIP).
-* <strong>Depine</strong>: IT onboarding automation application.
-* <strong>DeadLetter Opener</strong>: Enhanced UI for RabbitMQ to manage DLQs efficiently.
-* <strong>Trinity</strong>: Complete inventory and barcode scanning solution for supermarkets.
-* <strong><a href="https://github.com/lukyyy9/T-POO-700-NCE_10">TimeManager</a></strong>: Enterprise clocking system developed in Elixir.
-* <strong><a href="https://github.com/lukyyy9/Distant-Bot">Distant</a></strong>: Discord bot improving social network message embedding.
-* <strong><a href="https://github.com/lukyyy9/DeezcordRPC">DeezcordRPC</a></strong>: Discord rich-presence app that syncs your status with the music you’re listening to.
-* <strong><a href="https://github.com/lukyyy9/medtrackr-fe">MedTrackr</a></strong>: Progressive web app for e-health management.
-* <strong>Reave</strong>: E-sport hub platform.
+* <strong>Cartonord</strong>: An app to create, edit, and publish maps from GeoJSON files, using microservices.
+* <strong>Depine</strong>: An IT onboarding automation application.
+* <strong>DeadLetter Opener</strong>: An enhanced UI for RabbitMQ to manage DLQs efficiently.
+* <strong>Trinity</strong>: A complete inventory and barcode scanning solution for supermarkets.
+* <strong><a href="https://github.com/lukyyy9/T-POO-700-NCE_10">TimeManager</a></strong>: An enterprise clocking system developed in Elixir.
+* <strong><a href="https://github.com/lukyyy9/Distant-Bot">Distant</a></strong>: A Discord bot improving social network message embedding.
+* <strong><a href="https://github.com/lukyyy9/DeezcordRPC">DeezcordRPC</a></strong>: A Discord rich-presence app that syncs your status with the music you’re listening to.
+* <strong><a href="https://github.com/lukyyy9/medtrackr-fe">MedTrackr</a></strong>: A progressive web app for e-health management.
+* <strong>Reave</strong>: An E-sport hub platform.
 
   <h2>📫 Connect With Me</h2>
 
