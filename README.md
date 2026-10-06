@@ -8,15 +8,15 @@
 
 <div style="margin: 15px;">
   <h2>🚀 About Me</h2>
-  <p>Hello! I'm Lucas, a cybersecurity engineer at Monaco Telecom.</p>
-  <p> I hold a university-level Bachelor's degree (BUT) and I am currently in my final year of a Master's program at Epitech, majoring in Cybersecurity.</p>
+  <p>Hello! I'm Lucas, an IT Operations & Network Specialist @ Qonto</p>
+  <p>I hold a Master of Science in Cybersecurity from Epitech and a university Bachelor's degree (BUT) in Computer Science.</p>
   <p> I studied my full 5-year curriculum on a work-study basis. </p>
-  <p> I'm passionate about penetration testing, security research, and exploring new technologies.</p>
+  <p> I'm passionate about penetration network security, pentesting and exploring new technologies.</p>
 
   <img src="https://tryhackme-badges.s3.amazonaws.com/lukyyy.png?3" alt="TryHackMe Badge" />
 
   <h2>👨‍💻 Software Development</h2>
-  <p>I began my career as a software developer before specializing in cybersecurity. Throughout my studies, my personnal and my professional work, I've built several interesting projects, including:</p>
+  <p>I began my career as a software developer before specializing in network and cybersecurity. Throughout my studies, my personal and my professional work, I've built several interesting projects, including:</p>
 
 * <strong>ClipSpawner</strong>: A desktop tool built for small streamers to automate the creation of vertical short-form content (TikTok, Reels, Shorts) from their VODs. All processing is handled locally to ensure privacy, efficiency, and a one-time cost. The application also features an A/B testing workflow, allowing streamers to easily share videos with their moderation team for feedback and selection.
 * <strong><a href="https://github.com/lukyyy9/yt-dl-ios-shortcut">YT DL iOS Shortcut</a></strong>: A FastAPI server that integrates with two iOS Shortcuts to enable one-tap YouTube downloads to your iPhone, featuring async processing, quality limiting and automatic server cleanup.
